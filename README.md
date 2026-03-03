@@ -16,7 +16,7 @@ Custom dataset recorded via webcam
 
 Classes Predicted:
 
-    * Perfect
+* Perfect
 
     * ThumbsUp
 

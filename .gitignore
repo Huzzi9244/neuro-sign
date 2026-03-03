@@ -1,0 +1,2 @@
+# Ignore heavy gesture training data
+*.npy
